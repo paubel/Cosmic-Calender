@@ -74,5 +74,6 @@ input[type='checkbox'] {
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
   max-width: 600px;
-  margin: 0 5vw 50px 5vw;
+  margin: 0 5vw 0 5vw;
+  min-height: 400px;
 }
