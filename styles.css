@@ -1,7 +1,7 @@
 /* https://paletton.com/#uid=13A0u0kllllmm++lYuPkIbRk52n */
 iframe {
-  width: 90vw;
-  height: 90vh;
+  width: 100vw;
+  height: 88vh;
 }
 
 section {
@@ -34,7 +34,6 @@ input[type='checkbox'] {
 
 .lbl-toggle:hover {
   color: #72a1de;
-  72a1de
 }
 
 .lbl-toggle::before {
@@ -75,5 +74,5 @@ input[type='checkbox'] {
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
   max-width: 600px;
-  margin: 0 5vw 0 5vw;
+  margin: 0 5vw 5vh 5vw;
 }
